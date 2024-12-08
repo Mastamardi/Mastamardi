@@ -56,4 +56,4 @@ Hi there! I'm Omkar, a passionate student pursuing a Bachelor’s in Artificial 
 ## 📬 **Let's Connect**
 - **GitHub**: [Mastamardi](https://github.com/Mastamardi)  
 - **LinkedIn**: [Omkar Mastamardi](https://www.linkedin.com/in/omkar62?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Email**: mastamardi@example.com
+- **Email**: omkarbabumastamardi@gmail.com
